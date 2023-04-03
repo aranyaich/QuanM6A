@@ -7,6 +7,7 @@ Supplemental code for the article: Development of Quantitative Algorithm and Dif
 
 ## How to use
 java -jar MATK-1.0.jar -h
+
 bash runMATK
 
 ## Performance Comparison
